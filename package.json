@@ -1,9 +1,9 @@
 {
-  "name": "@sms77/powerpoint",
+  "name": "@seven.io/powerpoint",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sms77io/powerpoint.git"
+    "url": "https://github.com/seven-io/powerpoint.git"
   },
   "license": "MIT",
   "config": {
@@ -27,7 +27,7 @@
     "watch": "webpack --mode development --watch"
   },
   "dependencies": {
-    "@sms77/office-base": "git+https://git@github.com/sms77io/office-base.git"
+    "@seven.io/office-base": "git+https://git@github.com/seven-io/office-base.git"
   },
   "devDependencies": {
     "office-addin-cli": "^1.0.7",
