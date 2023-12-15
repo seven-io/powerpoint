@@ -1,4 +1,4 @@
-![](https://www.seven.io/wp-content/uploads/Logo.svg "seven Logo")
+<img src="https://www.seven.io/wp-content/uploads/Logo.svg" width="250" />
 
 # seven Addin for PowerPoint 2013+ and PowerPoint Online
  
